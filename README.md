@@ -1,2 +1,2 @@
 # Logistic-regression
-Training a NLP with Logistic Regression built form ground up
+Training an NLP with Logistic Regression built form ground up
